@@ -1,0 +1,27 @@
+_repo: The-Lure-of-San-FranciscoA-Romance-Amid-Old-Landmarks_11507
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Potter, Elizabeth Gray
+    gutenberg_agent_id: '4003'
+    url: http://www.gutenberg.org/2009/agents/4003
+  - agent_name: Gray, Mabel Thayer
+    gutenberg_agent_id: '4619'
+    url: http://www.gutenberg.org/2009/agents/4619
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11507'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'San Francisco (Calif.)'
+- !lcc 'F850.5'
+- GITenberg
+tableOfContents: The Mission and its romance -- The Presidio, past and present --
+  The Plaza and its echoes -- Telegraph Hill of unique fame.
+title: 'The Lure of San Francisco: A Romance Amid Old Landmarks'
+url: http://www.gutenberg.org/ebooks/11507
